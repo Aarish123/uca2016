@@ -6,6 +6,8 @@
 	b. $sudo ln -s /usr/bin/nodejs /usr/bin/node
 	
 	c. $sudo apt-get install npm
+	
+	blahs
 
 2. Install nodemon - $sudo npm install -g nodemon
 
